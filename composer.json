@@ -1,0 +1,15 @@
+{
+    "name": "iireneurbano/gettext.local",
+    "autoload": {
+        "psr-4": {
+            "Iireneurbano\\GettextLocal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ireneurbano",
+            "email": "ireneurbanoluque@gmail.com"
+        }
+    ],
+    "require": {}
+}
